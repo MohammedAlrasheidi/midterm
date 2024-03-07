@@ -1,0 +1,38 @@
+{
+  "name": "Mohammed Alrasheidi",
+  "email": "Malrasheidi@una.edu",
+  "phone": "832-276-8495",
+  "education": [
+    {
+      "degree": "BBA - Computer Information Systems",
+      "university": "University of North Alabama",
+      "year": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Software Engineer Intern",
+      "company": "Tech Innovations Inc.",
+      "location": "City, Country",
+      "duration": "June 2023 - August 2023",
+      "description": "Worked on developing and testing web applications using Python and Django framework. Collaborated with the team to implement new features and improve existing functionalities."
+    },
+    {
+      "position": "Data Analyst Intern",
+      "company": "Data Analytics Solutions",
+      "location": "City, Country",
+      "duration": "May 2022 - July 2022",
+      "description": "Performed statistical analysis on large datasets to identify trends and patterns. Created geospatial applications for visualizing data using GIS tools. Developed APIs for data access and integration."
+    }
+  ],
+  "skills": [
+    "Web Development",
+    "Python",
+    "Statistical Analysis",
+    "Geospatial Application Development",
+    "API Creation",
+    "Python Package Development",
+    "Process Automation",
+    "Web Scraping"
+  ]
+}
